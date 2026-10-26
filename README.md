@@ -165,7 +165,7 @@ while processo.e_manual():
 ## 🗨️ Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E5A66?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/john-weverton-70b313232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E5A66?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:johnnascimeto@alu.ufc.br"><img src="https://img.shields.io/badge/Email-F5A524?style=for-the-badge&logo=gmail&logoColor=0B2530"/></a>
   <a href="https://github.com/johnweverton?tab=repositories"><img src="https://img.shields.io/badge/Todos_os_projetos-0B2530?style=for-the-badge&logo=github&logoColor=F5A524"/></a>
 </p>
